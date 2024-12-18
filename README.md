@@ -15,6 +15,8 @@ Após a escolha, o programa calcula o valor correspondente na unidade de medida 
 - Demonstrar o uso de estruturas de controle e loops em C.  
 - Desenvolver habilidades práticas para manipulação de entrada e saída de dados.  
 - Fortalecer os conceitos básicos de programação estruturada.
+- Fomentar o trabalho colaborativo com git e github
+- Aprimorar o controle de versões de códigos
 
 ## ⚙️ Funcionalidades
 
